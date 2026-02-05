@@ -20,7 +20,7 @@ Ollama (If running via Ollama) or Hugging Face Transformers
 
 2. Clone the Repository
 Bash
-git clone https://github.com/yourusername/VisionExtract.git
+https://github.com/Chetanchhetri/Image_Feature_Extraction.git
 cd VisionExtract
 3. Set Up Environment
 Bash
